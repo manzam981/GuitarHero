@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GuitarHero">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/GuitarHero_jar/GuitarHero.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
